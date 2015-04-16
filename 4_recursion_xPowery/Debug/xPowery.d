@@ -1,0 +1,1 @@
+xPowery.d: ../xPowery.cpp

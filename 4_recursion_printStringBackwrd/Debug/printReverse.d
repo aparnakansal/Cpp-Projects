@@ -1,0 +1,1 @@
+printReverse.d: ../printReverse.cpp
